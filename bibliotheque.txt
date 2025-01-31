@@ -1,0 +1,4 @@
+Papier;au;emile durk;2004
+Papier;ver;vander;15
+Papier;auu;vers;2004
+Numérique;tera;vander;1999;15.0

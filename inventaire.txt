@@ -1,0 +1,65 @@
+Alimentaire;Pâtes;50;1.99
+Alimentaire;Lait;200;0.99
+Alimentaire;Pommes;15;2.5
+Alimentaire;Pain;120;1.5
+Alimentaire;Céréales;35;3.25
+Electronique;Téléphone;20;599.99
+Electronique;Ordinateur Portable;10;1200.0
+Electronique;Casque Audio;30;150.0
+Electronique;Télévision;5;750.0
+Electronique;Chargeur;100;15.99
+Vetement;T-shirt;100;19.99
+Vetement;Jeans;50;49.99
+Vetement;Veste;30;89.99
+Vetement;Chapeau;80;15.0
+Vetement;Chaussures;25;59.99
+Alimentaire;Pomme ;2;1.0
+Alimentaire;Pâtes;50;1.99
+Alimentaire;Lait;200;0.99
+Alimentaire;Pommes;15;2.5
+Alimentaire;Pain;120;1.5
+Alimentaire;Céréales;35;3.25
+Electronique;Téléphone;20;599.99
+Electronique;Ordinateur Portable;10;1200.0
+Electronique;Casque Audio;30;150.0
+Electronique;Télévision;5;750.0
+Electronique;Chargeur;100;15.99
+Vetement;T-shirt;100;19.99
+Vetement;Jeans;50;49.99
+Vetement;Veste;30;89.99
+Vetement;Chapeau;80;15.0
+Vetement;Chaussures;25;59.99
+Alimentaire;Pomme ;2;1.0
+Alimentaire;Pâtes;50;1.99
+Alimentaire;Lait;200;0.99
+Alimentaire;Pommes;15;2.5
+Alimentaire;Pain;120;1.5
+Alimentaire;Céréales;35;3.25
+Electronique;Téléphone;20;599.99
+Electronique;Ordinateur Portable;10;1200.0
+Electronique;Casque Audio;30;150.0
+Electronique;Télévision;5;750.0
+Electronique;Chargeur;100;15.99
+Vetement;T-shirt;100;19.99
+Vetement;Jeans;50;49.99
+Vetement;Veste;30;89.99
+Vetement;Chapeau;80;15.0
+Vetement;Chaussures;25;59.99
+Alimentaire;Pomme ;2;1.0
+Alimentaire;Pâtes;50;1.99
+Alimentaire;Lait;200;0.99
+Alimentaire;Pommes;15;2.5
+Alimentaire;Pain;120;1.5
+Alimentaire;Céréales;35;3.25
+Electronique;Téléphone;20;599.99
+Electronique;Ordinateur Portable;10;1200.0
+Electronique;Casque Audio;30;150.0
+Electronique;Télévision;5;750.0
+Electronique;Chargeur;100;15.99
+Vetement;T-shirt;100;19.99
+Vetement;Jeans;50;49.99
+Vetement;Veste;30;89.99
+Vetement;Chapeau;80;15.0
+Vetement;Chaussures;25;59.99
+Alimentaire;Pomme ;2;1.0
+Alimentaire;Pomme;4;2.0
